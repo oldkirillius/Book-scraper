@@ -1,2 +1,2 @@
 class AllBooksPageLocators:
-    BOOKS = 'div.page_inner secton li.col-xs-6.col-sm-4.col-md-4.col-lg-3'
+    BOOKS = 'div.page_inner section li.col-xs-6.col-sm-4.col-md-3.col-lg-3'
